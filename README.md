@@ -5,7 +5,8 @@ Explore HR Analytics using SQL and Python for dataset creation, cleaning, and ED
 
 ## Steps for EDA and Data Cleaning
 
-- Removing Unnecessary Columns:
+- Removing Unnecessary Columns [lot of nulls and not useful for visualization and for getting the answer to business questions and probelems] 
+
 
 - Eliminate columns that do not contribute to the analysis, enhancing the dataset's relevance.
 
