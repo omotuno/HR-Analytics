@@ -130,12 +130,10 @@ The Percentage of Jobs across various career levels:
 - The total number of Unique Jobs Available = 2789 <br>
 
 
-
 - The total number of jobs available is:  3211 <br>
 - The total number of Analytics field = 5 {Data Analyst,Business Intelligence, Data Scientist, Data Engineer, Machine Learning Engineer} <br>
 <br>
-<br>
-
+  
  The total number of jobs available across the 5 analytics field :
 
 | Analytics Field            | Counts |
@@ -148,10 +146,6 @@ The Percentage of Jobs across various career levels:
 
 <br>
 <br>
-
-
-
-
 
 #### Company Wise Insights and Analysis 
 
@@ -177,80 +171,4 @@ The top Five Companies providing jobs are
 
 
 
-
-------------
-
-| **Visual Analytics and Findings** | **Summary of Data**                                                     |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Total Jobs                        | 3211                                                                     |
-| Total Companies                   | 1223                                                                     |
-| Total Industry Domains            | 51                                                                       |
-| Total Career Levels               | 3                                                                        |
-| Total Analytics Fields             | 5                                                                        |
-| Total Job Types                   | 35                                                                       |
-
-| **Company and Domain with Highest Jobs** | **Top 5 Companies and Total Jobs**                                      |
-|------------------------------------------|--------------------------------------------------------------------------|
-| Company with Highest Jobs: HKT            | IT Solutions Limited - 43 Jobs                                          |
-| Domain with Highest Jobs: Human Resources Management/Consultancy | Robert Walters (HK) - 40 Jobs                                    |
-|                                          | ASTRI - 37 Jobs                                                          |
-|                                          | Manpower Services (Hong Kong) Limited - 31 Jobs                          |
-|                                          | Pinpoint Asia Limited - 29 Jobs                                         |
-
-| **Career Level Analysis**         | **Various Job Types for Different Titles**                              |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Entry Level Jobs: 35.22%          | **Entry Level Jobs:**                                                   |
-| Middle Level Jobs: 51.24%         | - Decision Knowledge: 1847 Jobs                                        |
-| Senior Level Jobs: 13.54%         | - Other Entry Level Jobs...                                            |
-|                                   |                                                                          |
-|                                   | **Middle Level Jobs:**                                                  |
-|                                   | - Decision Knowledge: 382 Jobs                                         |
-|                                   | - Other Middle Level Jobs...                                           |
-|                                   |                                                                          |
-|                                   | **Senior Level Jobs:**                                                  |
-|                                   | - Decision Knowledge: 982 Jobs                                         |
-|                                   | - Other Senior Level Jobs...                                           |
-
-| **Job Role Analysis**            | **Company-wise Insights**                                               |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Data Science Jobs: 2490           | IT Solutions Limited: Highest job openings in data science.             |
-| Data Analyst Jobs: 502             | Protivi Hong Kong: Highest in data analyst role.                        |
-| BI Jobs: 137                      | Insights specific to various industries.                               |
-| Data Engineer Jobs: 55             |                                                                          |
-| ML Engineer Jobs: 27               | **Domain-wise Insights**                                               |
-|                                   | Information Technology: Highest job openings in data science.           |
-| **Company-wise Insights**         | Human Resources/Consultancy: Highest in data analyst role.               |
-|                                   | Insights specific to various domains.                                   |
-
-| **Domain-wise Insights**          | **Entry Level Wise Insights**                                           |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Information Technology: Highest job openings in data science.                | Data Scientist: 1033 Entry Level Jobs                                   |
-| Human Resources/Consultancy: Highest in data analyst role.                   | Data Analyst: 214 Entry Level Jobs                                      |
-| Insights specific to various domains.                                        | Data Engineering: 22 Entry Level Jobs                                   |
-                                                                               | ML Engineering: 8 Entry Level Jobs                                      |
-                                                                               | Business Intelligence: 51 Entry Level Jobs                              |
-
-| **Entry Level Wise Insights**     | **Middle Level Wise Insights**                                          |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Data Scientist: 785 Middle Level Jobs                                      | Data Scientist: 785 Middle Level Jobs                                   |
-| Data Analyst: 147 Middle Level Jobs                                        | Data Analyst: 147 Middle Level Jobs                                     |
-| Data Engineering: 18 Middle Level Jobs                                      | Data Engineering: 18 Middle Level Jobs                                  |
-| ML Engineering: 12 Middle Level Jobs                                        | ML Engineering: 12 Middle Level Jobs                                    |
-| Business Intelligence: 38 Middle Level Jobs                                | Business Intelligence: 38 Middle Level Jobs                             |
-
-| **Senior Level Wise Insights**     | **Required Qualification for Jobs**                                      |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Data Scientist: 672 Senior Level Jobs                                      | Degree: Most companies prefer candidates with a degree.                 |
-| Data Analyst: 141 Senior Level Jobs                                        | Comparison with other qualifications (Non-Degree, Post Graduation,      |
-| Business Intelligence: 48 Senior Level Jobs, followed by Data Engineering having 15 and Machine Learning Engineer having 7 jobs respectively. | School Certificates).                                                 |
-| Data Engineering: 15 Senior Level Jobs                                      |                                                                          |
-| ML Engineering: 7 Senior Level Jobs                                         |                                                                          |
-
-| **Key Insights**                  |                                                                          |
-|-----------------------------------|--------------------------------------------------------------------------|
-| A total of 3211 jobs are available for Data Science and 1547 for UI/UX.      |                                                                          |
-| 1223 and 692 companies provide jobs for Data Science and UI/UX, respectively.|                                                                          |
-| There are around 51 and 46 different domains offering jobs for DS and UI/UX, respectively. |                                                                          |
-| HKT and Michael Page are the companies with the highest job openings.       |                                                                          |
-| Human Resources Management/Consulting is the domain with the highest average number of jobs. |                                                                          |
 
