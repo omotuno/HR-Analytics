@@ -180,6 +180,7 @@ The top Five Companies providing jobs are
 | Manpower Services (Hong Kong) Limited                   | 31           |
 | Pinpoint Asia Limited                                   | 29           |
 
+<img width="1426" alt="tab" src="https://github.com/omotuno/HR-Analytics/assets/65866718/6d50324f-442a-4ea3-819e-52e3ab4965c0">
 
 
 ##
