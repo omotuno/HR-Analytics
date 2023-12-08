@@ -167,7 +167,7 @@ The top Five Companies providing jobs are
 
 <br> 
 
-#### End to End Project Workflow
+## End to End Project Workflow
 This project involved a comprehensive approach to data handling, combining the power of MySQL, DataGrip, Python, and Tableau. The process can be summarized in the following steps:
 
 -  Data Import and Database Setup
