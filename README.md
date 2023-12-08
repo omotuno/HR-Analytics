@@ -6,7 +6,7 @@ Explore HR Analytics using SQL and Python for dataset creation, cleaning, and ED
   
 ## Dataset Overview
 
-The cleaned dataset for this project can be found [here](link_to_jupyter_notebook).
+The cleaned dataset for this project can be found [!here]([link_to_jupyter_notebook](https://github.com/omotuno/HR-Analytics/blob/main/Data/dsdata.csv)).
 
 <br>
 The dataset comprises job details within the analytics industry, focusing on Hong Kong-based companies. It includes diverse job roles such as Data Scientist, Data Analyst, Business Intelligence, Machine Learning Engineer, and Data Engineer. The dataset is extensive, encompassing six separate datasets merged for comprehensive analysis.
