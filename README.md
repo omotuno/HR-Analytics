@@ -79,7 +79,7 @@ The dataset comprises job details within the analytics industry, focusing on Hon
 
 
 
-##### Domain Wise Distribution Analysis & Insights:
+#### Domain Wise Distribution Analysis & Insights:
 
 -  The Total Number of Industries = 51 <br>
 
@@ -87,7 +87,7 @@ The dataset comprises job details within the analytics industry, focusing on Hon
 
 
 
-##### Career Level Distribution Analysis  & Insights:
+#### Career Level Distribution Analysis  & Insights:
 
 Entry Career level have the most job openings and opportunities followed by Middle Career Level then Senior Career Levels and intuitively this makes sense <br>
 
@@ -124,7 +124,7 @@ The Percentage of Jobs across various career levels:
 <br>
 <br>
 
-##### Analytics Field, Job Role/Title &  Job Type  Distribution Analysis & Insights:
+#### Analytics Field, Job Role/Title &  Job Type  Distribution Analysis & Insights:
 
 
 - The total number of Unique Jobs Available = 2789 <br>
@@ -153,7 +153,7 @@ The Percentage of Jobs across various career levels:
 
 
 
-##### Company Wise Insights and Analysis 
+#### Company Wise Insights and Analysis 
 
 - The total number of Companies providing jobs =  1232 <br>
 <br>
