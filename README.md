@@ -112,7 +112,17 @@ The minimum required qualification for respective analytics field is shown below
 <br>
 <br>
 
+The Percentage of Jobs across various career levels:
 
+| Career Level | Percentage |
+|--------------:|------------|
+|         Entry |     41.36   |
+|        Middle |     31.14   |
+|        Senior |     27.50   |
+
+
+<br>
+<br>
 
 ##### Analytics Field, Job Role/Title &  Job Type  Distribution Analysis & Insights:
 
