@@ -31,7 +31,7 @@ The dataset comprises job details within the analytics industry, focusing on Hon
 <br> 
 
 
-- The python Jupyter Notebook for this project can be found [here]https://github.com/omotuno/HR-Analytics/blob/main/HR_Analytics_EDA.ipynb
+- The python Jupyter Notebook for this project can be found [here](https://github.com/omotuno/HR-Analytics/blob/main/HR_Analytics_EDA.ipynb)
 - The SQL file is available [mysql](https://github.com/omotuno/HR-Analytics/blob/main/hr_analytics.sql).
 
 
