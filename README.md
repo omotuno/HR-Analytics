@@ -165,6 +165,38 @@ The top Five Companies providing jobs are
 
 ##
 
+<br> 
+
+#### End to End Project Workflow
+This project involved a comprehensive approach to data handling, combining the power of MySQL, DataGrip, Python, and Tableau. The process can be summarized in the following steps:
+
+-  Data Import and Database Setup
+The initial step included importing raw data into a MySQL database. A table was created in MySQL to structure and organize the data. This facilitated efficient querying and analysis.
+<br>
+
+-  MySQL and DataGrip
+DataGrip was employed as the SQL IDE to interact with the MySQL database. SQL queries were executed to explore and understand the dataset. The capability of DataGrip to visualize query results in a tabular format greatly facilitated data exploration and initial insights.
+<br>
+
+- Python for Data Cleaning
+Python, along with the Pandas library, played a pivotal role in data cleaning and preparation. The dataset was loaded into a Pandas DataFrame, allowing for extensive data manipulation, handling missing values, transforming data types, and other preprocessing steps.
+<br>
+
+-  Data Visualization
+
+    Tableau
+Tableau was chosen for its robust data visualization capabilities. Cleaned and processed data from Python was connected to Tableau for creating insightful and interactive visualizations. Dashboards were designed to present key findings and trends.
+<br>
+
+Python (Matplotlib, Seaborn)
+In addition to Tableau, Python's data visualization libraries, including Matplotlib and Seaborn, were employed for exploratory data analysis. Python scripts generated various charts and graphs to unveil patterns within the data.
+<br>
+
+- Project Optimization and Future Metrics
+  
+While the current project has provided valuable insights and was majorly tailored towards answering the business problems, there is always room for optimization and the extraction of further metrics. Future iterations could explore additional aspects of the dataset, leverage advanced statistical analyses, and enhance visualization techniques for even deeper insights. The visualization could really be improved on as well and maybe create a story in tableau.
+
+Feel free to adapt and expand upon this section based on the specifics of your project.
 
 
 
