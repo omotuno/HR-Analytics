@@ -3,22 +3,12 @@
 Every organization relies on its HR department for recruitment and placement-related tasks. This project focuses on leveraging a substantial dataset to extract insights that can aid HR departments in understanding the market's recruitment landscape. The report delves into various insights obtained through detailed Exploratory Data Analysis (EDA) and data cleaning processes.
 Explore HR Analytics using SQL and Python for dataset creation, cleaning, and EDA. Visualize insights with Python (matplotlib, seaborn) and Tableau. Enhance HR decision-making with comprehensive analysis.
 
-## Steps for EDA and Data Cleaning
-
-- Removing Unnecessary Columns [lot of nulls and not useful for visualization and for getting the answer to business questions and probelems] 
-
-
-- Eliminate columns that do not contribute to the analysis, enhancing the dataset's relevance.
-
-- Removing Lower and Upper Salary Ranges:
-Address irrelevant salary range columns to streamline the dataset.
-
-- Removing Date Source Column:
-
-- Eliminate redundant columns like the date source to maintain data integrity.
-
   
 ## Dataset Overview
+
+The cleaned dataset for this project can be found [here](link_to_jupyter_notebook).
+
+<br>
 The dataset comprises job details within the analytics industry, focusing on Hong Kong-based companies. It includes diverse job roles such as Data Scientist, Data Analyst, Business Intelligence, Machine Learning Engineer, and Data Engineer. The dataset is extensive, encompassing six separate datasets merged for comprehensive analysis.
 
 | **Field**           | **Description**                                              |
@@ -36,6 +26,35 @@ The dataset comprises job details within the analytics industry, focusing on Hon
 | Search Term         | Analytics domain classification (Data Science, Data Analytics, BI, ML, etc.). |
 | Date Posted         | Date when a job was posted.                                  |
 | Date Scrapped       | Date when the dataset was obtained.                          |
+
+
+<br> 
+
+
+The Jupyter Notebook for this project can be found [here](link_to_jupyter_notebook).
+The SQL file is available [here](link_to_sql_file).
+
+
+<br>
+
+## Steps for EDA and Data Cleaning
+
+- Removing Unnecessary Columns [lot of nulls and not useful for visualization and for getting the answer to business questions and probelems] 
+
+
+- Eliminate columns that do not contribute to the analysis, enhancing the dataset's relevance.
+
+- Removing Lower and Upper Salary Ranges:
+Address irrelevant salary range columns to streamline the dataset.
+
+- Removing Date Source Column:
+
+- Eliminate redundant columns like the date source to maintain data integrity.
+
+<br>
+
+
+
 
 ## <br>
 <br>
