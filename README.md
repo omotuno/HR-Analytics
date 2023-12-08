@@ -184,11 +184,10 @@ Python, along with the Pandas library, played a pivotal role in data cleaning an
 
 -  Data Visualization
 
-    Tableau
-Tableau was chosen for its robust data visualization capabilities. Cleaned and processed data from Python was connected to Tableau for creating insightful and interactive visualizations. Dashboards were designed to present key findings and trends.
+  * Tableau was chosen for its robust data visualization capabilities. Cleaned and processed data from Python was connected to Tableau for creating insightful and interactive visualizations. Dashboards were designed to present key findings and trends.
 <br>
 
-Python (Matplotlib, Seaborn)
+  * Python (Matplotlib, Seaborn)
 In addition to Tableau, Python's data visualization libraries, including Matplotlib and Seaborn, were employed for exploratory data analysis. Python scripts generated various charts and graphs to unveil patterns within the data.
 <br>
 
@@ -197,8 +196,6 @@ In addition to Tableau, Python's data visualization libraries, including Matplot
 While the current project has provided valuable insights and was majorly tailored towards answering the business problems, there is always room for optimization and the extraction of further metrics. Future iterations could explore additional aspects of the dataset, leverage advanced statistical analyses, and enhance visualization techniques for even deeper insights. The visualization could really be improved on as well and maybe create a story in tableau.
 
 Feel free to adapt and expand upon this section based on the specifics of your project.
-
-
 
 
 
