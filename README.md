@@ -74,43 +74,91 @@ The dataset comprises job details within the analytics industry, focusing on Hon
 <br>
 
 
-## Insights and Findings
-
-| Insights and Findings                                                | Answers / Output Placeholders                               |
-|----------------------------------------------------------------------|------------------------------------------------------------|
-| **Total Jobs and Companies:**                                        |                                                            |
-| Total number of jobs available                                       | Placeholder: [Your Output Here]                              |
-| Total Number of Companies Providing Jobs                              | Placeholder: [Your Output Here]                              |
-|                                                                      |                                                            |
-| **Domain-wise Insights and Distribution:**                           |                                                            |
-| Total Number of Industries (Domains)                                  | Placeholder: [Your Output Here]                              |
-| Domain with the highest number of jobs                               | Placeholder: [Your Output Here]                              |
-| Distribution of job types across various domains                     | Placeholder: [Your Output Here]                              |
-|                                                                      |                                                            |
-| **Career Levels and Distribution Analysis:**                         |                                                            |
-| Distribution of job types across different career levels            | Placeholder: [Your Output Here]                              |
-|                                                                      |                                                            |
-| **Job Role Distribution Analysis:**                                  |                                                            |
-| Distribution of job roles/titles across various analytics fields     | Placeholder: [Your Output Here]                              |
-|                                                                      |                                                            |
-| **Minimum Required Qualifications for Job Roles:**                    |                                                            |
-| Minimum required qualifications for job roles                        | Placeholder: [Your Output Here]                              |
-|                                                                      |                                                            |
-| **Job Type Distribution Analysis:**                                  |                                                            |
-| Distribution of job types across analytics fields                    | Placeholder: [Your Output Here]                              |
-| Job Types for Different Job Titles                                    | Placeholder: [Your Output Here]                              |
-|                                                                      |                                                            |
-| **Company-wise Insights & Analysis:**                                |                                                            |
-| Companies with the highest number of job openings                    | Placeholder: [Your Output Here]                              |
-| Top 5 Companies and Total Jobs                                       | Placeholder: [Your Output Here]                              |
+## Insights & Findings 
 
 
 
+##### Domain Wise Distribution Analysis & Insights:
+
+-  The Total Number of Industries = 51 <br>
+
+- The Industry with the highest number of jobs = Human Resources Management/Consultancy	(777) <br>
+
+
+
+##### Career Level Distribution Analysis  & Insights:
+
+Entry Career level have the most job openings and opportunities followed by Middle Career Level then Senior Career Levels and intuitively this makes sense <br>
+
+| Career Level | Total Job Count |
+|--------------|------------------|
+| Entry        | 1328             |
+| Middle       | 1000             |
+| Senior       | 883              |
+
+<br>
+
+The minimum required qualification for respective analytics field is shown below:
+
+| Search Term              | Minimum Qualifications |
+|--------------------------|------------------------|
+| Business Intelligence    | (N/A)                  |
+| Data Analyst             | (N/A)                  |
+| Data Engineer            | (N/A)                  |
+| Data Scientist           | (N/A)                  |
+| Machine Learning Engineer | Degree                |
+
+<br>
+<br>
+
+
+
+##### Analytics Field, Job Role/Title &  Job Type  Distribution Analysis & Insights:
+
+
+- The total number of Unique Jobs Available = 2789 <br>
+
+
+
+- The total number of jobs available is:  3211 <br>
+- The total number of Analytics field = 5 {Data Analyst,Business Intelligence, Data Scientist, Data Engineer, Machine Learning Engineer} <br>
+<br>
+<br>
+
+ The total number of jobs available across the 5 analytics field :
+
+| Analytics Field            | Counts |
+|----------------------------|--------|
+| Data Scientist             | 2490   |
+| Data Analyst               | 502    |
+| Business Intelligence      | 137    |
+| Data Engineer              | 55     |
+| Machine Learning Engineer  | 27     |
+
+<br>
+<br>
 
 
 
 
 
+##### Company Wise Insights and Analysis 
+
+- The total number of Companies providing jobs =  1232 <br>
+<br>
+The top Five Companies providing jobs are 
+
+| Company                                                | Job Openings |
+|--------------------------------------------------------|--------------|
+| IT Solutions Limited.                                  | 43           |
+| Robert Walters (HK)                                    | 40           |
+| Hong Kong Applied Science and Technology Research Institute Company Limited | 37 |
+| Manpower Services (Hong Kong) Limited                   | 31           |
+| Pinpoint Asia Limited                                   | 29           |
+
+
+
+##
 
 
 
